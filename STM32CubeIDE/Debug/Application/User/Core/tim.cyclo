@@ -1,0 +1,4 @@
+C:/Users/montanab/STM32CubeIDE/EP10/Core/Src/tim.c:30:6:MX_TIM3_Init	6
+C:/Users/montanab/STM32CubeIDE/EP10/Core/Src/tim.c:84:6:HAL_TIM_Base_MspInit	2
+C:/Users/montanab/STM32CubeIDE/EP10/Core/Src/tim.c:99:6:HAL_TIM_MspPostInit	2
+C:/Users/montanab/STM32CubeIDE/EP10/Core/Src/tim.c:127:6:HAL_TIM_Base_MspDeInit	2
